@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RecordTaskCA/1.0.0": {
+        "dependencies": {
+          "RecordTaskBusiness": "1.0.0"
+        },
+        "runtime": {
+          "RecordTaskCA.dll": {}
+        }
+      },
+      "RecordTaskBusiness/1.0.0": {
+        "dependencies": {
+          "RecordTaskDatabase": "1.0.0"
+        },
+        "runtime": {
+          "RecordTaskBusiness.dll": {}
+        }
+      },
+      "RecordTaskCore/1.0.0": {
+        "runtime": {
+          "RecordTaskCore.dll": {}
+        }
+      },
+      "RecordTaskDatabase/1.0.0": {
+        "dependencies": {
+          "RecordTaskCore": "1.0.0"
+        },
+        "runtime": {
+          "RecordTaskDatabase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecordTaskCA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RecordTaskBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RecordTaskCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RecordTaskDatabase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

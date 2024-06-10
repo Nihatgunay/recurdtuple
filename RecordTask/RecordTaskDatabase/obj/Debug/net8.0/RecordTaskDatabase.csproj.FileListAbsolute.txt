@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\bin\Debug\net8.0\RecordTaskDatabase.deps.json
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\bin\Debug\net8.0\RecordTaskDatabase.dll
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\bin\Debug\net8.0\RecordTaskDatabase.pdb
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\bin\Debug\net8.0\RecordTaskCore.dll
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\bin\Debug\net8.0\RecordTaskCore.pdb
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\obj\Debug\net8.0\RecordTaskDatabase.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\obj\Debug\net8.0\RecordTaskDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\obj\Debug\net8.0\RecordTaskDatabase.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\obj\Debug\net8.0\RecordTaskDatabase.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\obj\Debug\net8.0\RecordTaskDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\obj\Debug\net8.0\RecordTa.58CE05C3.Up2Date
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\obj\Debug\net8.0\RecordTaskDatabase.dll
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\obj\Debug\net8.0\refint\RecordTaskDatabase.dll
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\obj\Debug\net8.0\RecordTaskDatabase.pdb
+C:\Users\Lenovo\source\repos\RecordTask\RecordTaskDatabase\obj\Debug\net8.0\ref\RecordTaskDatabase.dll
